@@ -34,5 +34,5 @@ npm install to install all the dependencies.
 
 # To start the application:
 
-backend: npm start
-frontend: npm start
+ # Backend: npm start
+ # Frontend: npm start
